@@ -13,9 +13,9 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "php": ">=8.1",
-        "illuminate/support": "^9|^10|^11|^12",
+        "php": ">=8.1"
         "ext-json": "*",
+        "illuminate/support": "^9|^10|^11|^12|^13",
         "jdorn/sql-formatter": "^1.2"
     },
     "require-dev": {
